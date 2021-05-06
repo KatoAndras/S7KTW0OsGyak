@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1620327436 source:/home/mint/Desktop/alarmado/main.c
+	<sys/types.h>
+	<signal.h>
+
