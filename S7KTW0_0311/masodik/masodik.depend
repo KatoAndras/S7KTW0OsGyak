@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1620326625 source:/home/mint/Desktop/masodik/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/types.h>
+	<sys/wait.h>
+	<unistd.h>
+
