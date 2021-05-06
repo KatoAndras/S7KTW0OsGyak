@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1620294200 source:/home/mint/Desktop/Oprendsyerbeadando/main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<math.h>
+
